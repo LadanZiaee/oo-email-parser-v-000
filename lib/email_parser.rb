@@ -3,7 +3,7 @@ class EmailAddressParser
   @@parsed = []
   
   def initialize(emails)
-    @email = emails
+    @EmailParser = emails
   end
   
   def parse 
