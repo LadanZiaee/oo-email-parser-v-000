@@ -9,7 +9,6 @@ class EmailParser
   def parse 
     email_array = @email.split(", ")
     
- 
   end
   
 end 
