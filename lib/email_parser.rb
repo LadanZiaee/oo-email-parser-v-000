@@ -3,7 +3,7 @@ class EmailParser
   @@parser = []
   
   def initialize(emails)
-    emails = self.new
+    emails = email 
     @@parser = emails 
   end
   
