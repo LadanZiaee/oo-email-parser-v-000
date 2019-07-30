@@ -1,9 +1,9 @@
-class EmailAddressParser
+class EmailParser
   attr_accessor :email 
   @@parsed = []
   
   def initialize(emails)
-    @EmailParser = emails
+    self.new
   end
   
   def parse 
