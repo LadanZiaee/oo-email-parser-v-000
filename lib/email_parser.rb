@@ -8,7 +8,7 @@ class EmailParser
   
   def parse 
     email_array = @email.split(", ")
-    email_array_two = @email.split(" ")
+    
  
   end
   
